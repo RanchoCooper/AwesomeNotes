@@ -1,18 +1,10 @@
 Tasks Overview:
     Be going to do:
-      Vim练级
-      编译原理
-      数据结构
-      数据挖掘
-      C语言编译器 --> C专家编程 --> refactor
-      Python标准库
-      Python核心编程
-    Be Due to Do:
-      Python网络编程基础
 
+    Be Due to Do:
 
 --- ✄ -----------------------
-Coding Task:
+Hack Task:
     数据结构(一天一章):@started(16-07-01)
       ✔ 第一章 绪论 @done (16-07-01 16:41)
       ✔ 第二章 向量 @done
@@ -57,13 +49,6 @@ AwesomeNotes:
       ☐ 第10章: 聚类分析
       ☐ 第12章: 离群点检测
 
-
-    Python标准库: @started(16-07-01)
-      ☐ 文本
-      ☐ 网络通信
-      ☐ 进程与线程
-      ☐ 运行时特点
-
     编译原理:
       ☐ 词法分析
       ☐ 语法分析(自上而下)
@@ -73,7 +58,10 @@ AwesomeNotes:
       ☐ 代码优化
 
     Python网络编程: @started(16-07-01)
-      ☐
+      ✔ 网络简介 @done (16-07-02 21:45)
+      ✔ 网络客户端 @done (16-07-03 14:19)
+      ☐ 网络服务器
+      ☐ 域名系统
 
 --- ✄ -----------------------
 工具学习:
