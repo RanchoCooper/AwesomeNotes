@@ -19,6 +19,9 @@ port = 70               # gopher use port 70
 host = sys.argv[1]
 filename = sys.argv[2]
 
+def function():
+    pass
+
 s = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM, proto=0, _sock=None)
 
 # try:
