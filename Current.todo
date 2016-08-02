@@ -8,19 +8,36 @@ Tasks Overview:
         ☐ BeautifulSoup
         ☐ Scrapy
 
-    Current todo:
-       ✔ @done (16-07-20 11:41)
+Temp:
+    ☐ Git合集
+    ☐ dis模块
+
+
+图说设计模式(http://design-patterns.readthedocs.io/zh_CN/latest/index.html):
+    ✔ 看懂UML类图和时序图 @done (16-07-29 16:46)
+    ☐ 创建型模式
+        ✔ 简单工厂模式 @done (16-07-29 17:10)
+        ☐ 工厂方法模式
+        ☐ 抽象工厂模式
+        ☐ 建造者模式
+        ☐ 单例模式
+
+PythonCookBook:
+    ☐ 第一章：数据结构和算法
+    ☐ 第二章：字符串和文本
 
 Python Core:
-    ✔ ch12: modules @done (16-07-19 09:42)
-    ✔ ch18: thread @done (16-07-28 18:10)
+    ✔ ch12: 模块                      @done (16-07-19 09:42)
+    ✔ ch18: 多线程编程                @done (16-07-28 18:10)
+    ✔ ch08: 条件和循环                @done (16-08-01 14:52)
+    ✔  ch11: 函数式编程               @done (16-08-02 10:55)
 
 Linux私房菜:
-    ✔ 第五章: 文件权限与目录配置 @done (16-07-11 11:26)
-    ✔ 第六章: 文件与目录管理 @done (16-07-15 15:58)
+    ✔ 第五章: 文件权限与目录配置       @done (16-07-11 11:26)
+    ✔ 第六章: 文件与目录管理           @done (16-07-15 15:58)
 
 Blog:
-    ✔ post recover @done (16-07-17 23:23)
+    ✔ post recover                    @done (16-07-17 23:23)
     ☐ Baidu and Goole file
     ☐ Posts, markdown, images
     ☐ Git to manager "source" folder
@@ -86,7 +103,7 @@ AwesomeNotes:
         ✔ 创建版本库 @done (16-07-20 11:27)
         ✔ 时光机穿梭 @done (16-07-20 11:27)
         ✔ 远程仓库 @done (16-07-20 11:27)
-        ☐ 分支管理
+        ✔ 分支管理 @done (16-08-01 09:38)
         ☐ 标签管理
         ☐ 创建标签
         ☐ 操作标签
