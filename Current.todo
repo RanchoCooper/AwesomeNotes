@@ -1,23 +1,15 @@
-Tasks Overview:
-    Hack:
-        ☐ Datastructure
-        ☐ Network Bases
-
-    Read:
-        ☐ PythonCore
-        ☐ BeautifulSoup
-        ☐ Scrapy
-
-Temp:
-    ☐ Git合集
-    ☐ dis模块
-
+Current:
+    ✔ Git合集 @done (16-08-04 09:43)
+    ☐ 并发编程
+    ☐ dis模块文档
+    ☐ queue + threading
+    ☐ yeild/generator性能分析
 
 图说设计模式(http://design-patterns.readthedocs.io/zh_CN/latest/index.html):
     ✔ 看懂UML类图和时序图 @done (16-07-29 16:46)
     ☐ 创建型模式
         ✔ 简单工厂模式 @done (16-07-29 17:10)
-        ☐ 工厂方法模式
+        ✔ 工厂方法模式 @done (16-08-03 14:19)
         ☐ 抽象工厂模式
         ☐ 建造者模式
         ☐ 单例模式
@@ -25,8 +17,11 @@ Temp:
 PythonCookBook:
     ☐ 第一章：数据结构和算法
     ☐ 第二章：字符串和文本
+    ☐ 第十二章：并发编程
 
 Python Core:
+    ✔ Ch02: 快速入门                  @done (16-07-01 16:33)
+    ✔ Ch03: Python基础                @done (16-07-01 16:33)
     ✔ ch12: 模块                      @done (16-07-19 09:42)
     ✔ ch18: 多线程编程                @done (16-07-28 18:10)
     ✔ ch08: 条件和循环                @done (16-08-01 14:52)
@@ -90,6 +85,17 @@ AwesomeNotes:
         ☐ 运行时存储空间组织
         ☐ 代码优化
 
+C语言编译器:
+    ✔ （0）——前言 @done (16-07-02 01:15)
+    ✔ （1）——设计 @done (16-07-02 02:32)
+    ✔ （2）——虚拟机 @done (16-07-02 10:47)
+    ☐ （3）——词法分析器
+    ☐ （4）——递归下降
+    ☐ （5）——变量定义
+    ☐ （6）——函数定义
+    ☐ （7）——语句
+    ☐ （8）——表达式
+    ☐ （9）——总结
 
 --- ✄ -----------------------
 工具学习:
@@ -109,3 +115,6 @@ AwesomeNotes:
         ✔ 创建标签 @done (16-08-02 16:23)
         ✔ 操作标签 @done (16-08-02 16:23)
         ✔ 自定义Git @done (16-08-02 16:23)
+
+History Trash:
+
