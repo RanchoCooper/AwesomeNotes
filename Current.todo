@@ -1,12 +1,18 @@
-Temp:
-    ☐ '{!r}'.format()
+读书任务:
+    ☐ MacTalk人生元编程
+    ☐ Python Cook Book
+    ☐ 深入理解计算机系统
+
+支线任务:
+    ☐
+    ☐ yeild/generator性能分析
+
 
 Current:
     ✔ Git合集 @done (16-08-04 09:43)
     ☐ 并发编程
     ☐ dis模块文档
     ☐ queue + threading
-    ☐ yeild/generator性能分析
 
 图说设计模式(http://design-patterns.readthedocs.io/zh_CN/latest/index.html):
     ✔ 看懂UML类图和时序图 @done (16-07-29 16:46)
@@ -19,6 +25,7 @@ Current:
 
 PythonCookBook:
     ☐ 第一章：数据结构和算法
+    ✔ 第四章: 迭代器和生成器 @done (16-08-09 11:06)
     ☐ 第二章：字符串和文本
     ☐ 第十二章：并发编程
 
