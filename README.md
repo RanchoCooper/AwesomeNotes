@@ -1,7 +1,15 @@
 # Awesome Notes Overview
 
-**more history information see `/Current.todo`**
+本版本库是个人的学习仓库
+包括读书笔记和一些工具使用的记录
 
+`Current.todo` 是个人学习的记录文件, 不定期把已经完成的贴到这里来
+
+# 2016年目标(八月开始)
+- Python核心编程
+- Python高级编程
+- UNIX环境高级编程
+- 深入理解计算机系统
 
 ## Python核心编程: @started(16-07-01)
     ✔ Ch02: 快速入门                  @done (16-07-01 16:33)
