@@ -1,21 +1,28 @@
 /**
  *  @author  : Rancho Cooper
- *  @date    : 2016-08-13 09:06
+ *  @date    : 2016-08-13 15:54
  *  @email   : rancho941110@gmail.com
- *  只能执行基本的无参命令
  *
- *  fort调用一次但返回两次, 向子进程返回0, 向父进程返回子进程pid
+ *  对之前的my_shell.c作信号捕获的示例
  */
 #include "apue.h"
 #include <sys/wait.h>
+
+static void sig_int(int);   // 自定义信号处理函数
 
 int main(int argc, char const *argv[])
 {
     pid_t pid;
     int status;
-    char buf[MAXLINE];       // apue.h
+    char buf[MAXLINE];
 
-    printf("%% ");          // print prompt '%'
+    /**
+     *  signal()需要指定所产生的信号及其信号处理函数
+     */
+    if (signal(SIGINT, sig_int) == SIG_ERR)
+        err_sys("signal error");
+
+    printf("%% ");
 
     while (fgets(buf, MAXLINE, stdin) != NULL) { // readline from stdin, ended with '\n'
         if (buf[strlen(buf) - 1] == '\n')
@@ -36,4 +43,8 @@ int main(int argc, char const *argv[])
     }
 
     return 0;
+}
+
+void sig_int(int signo) {
+    printf("interrupt\nrestart\n%%");
 }
