@@ -29,6 +29,7 @@ int main(int argc, char const *argv[])
      *  void perror(const char* msg);
      *  根据当前errno输出错误信息
      *  输出格式为 "%s: %s\n", *msg, strerror(errno)
+     *  UNIX惯例是把当前程序名作为msg输出(这样能在一条多管道的命令中区分出错的程序)
      */
 
     return 0;
