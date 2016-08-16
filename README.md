@@ -1,9 +1,10 @@
 # Awesome Notes Overview
 
-本版本库是个人的学习仓库
-包括读书笔记和一些工具使用的记录
+本版本库是个人的知识管理仓库, 包括读书笔记和学习记录
 
-`Current.todo` 是个人学习的记录文件, 不定期把已经完成的贴到这里来
+[Current.todo](https://github.com/RanchoCooper/AwesomeNotes/blob/master/Current.todo)是个人的学习记录和学习规划文件, 会不定期把已经完成任务点的汇总到这里来
+
+一部分`Markdown` 笔记会更新到[博客](rancho1110.com)里
 
 # 2016年目标(八月开始)
 - Python核心编程

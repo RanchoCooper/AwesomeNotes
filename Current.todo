@@ -26,7 +26,7 @@
     ☐ queue + threading
 
 数据结构:@started(16-07-01)
-    ✔ 第一章 绪论 @done (16-07-01 16:41)
+    ✔ 第一章 绪论 @done
     ✔ 第二章 向量 @done
     ✔ 第三章 列表 @done
     ✔ 第四章 栈与队列 @done
@@ -47,6 +47,10 @@ Python Core:
     ✔ ch18: 多线程编程                @done (16-07-28 18:10)
     ✔ ch08: 条件和循环                @done (16-08-01 14:52)
     ✔ ch11: 函数式编程                @done (16-08-02 10:55)
+
+UNIX环境高级编程:
+    ✔ UNIX基础知识 @done (16-08-13 16:15)
+    ☐ UNIX标准及其实现
 
 图说设计模式(http://design-patterns.readthedocs.io/zh_CN/latest/index.html):
     ✔ 看懂UML类图和时序图 @done (16-07-29 16:46)
