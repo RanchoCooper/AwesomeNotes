@@ -7,23 +7,32 @@
         - NoSQL数据库(Redis)
         - *异步框架(Gevent, Tornado)
     指标任务:
-        ☐ PythonCookBook @deadline(九月)
-        ☐ 数据结构 (八章内容, C++实现) @deadline(十月)
-        ☐ TCP/IP协议详解
-        ☐ HTTP权威指南
-        other
-        ☐ MacTalk人生元编程
+        ☐ Python核心编程
+        ☐ Python Cook Book
+        ☐ 数据结构和算法分析
         ☐ 深入理解计算机系统
-        ☐ UNIX环境高级编程
+        ☐ HTTP权威指南
+        ☐ TCP/IP协议详解
 
 八月份任务:
     - 数据结构
     - Python Cook Book
 
+Linux工具快速教程:
+    ☐ Linux基础篇
+
 代办事项:
     ☐ 并发编程
     ☐ dis模块文档
+    ☐ requests官方文档
     ☐ queue + threading
+
+深入理解计算机系统:
+    ☐ 第二章: 信息的表示和处理
+
+Python Algorithms:
+    ✔ Introduction @done (16-08-17 16:06)
+
 
 数据结构:@started(16-07-01)
     ✔ 第一章 绪论 @done
@@ -32,6 +41,12 @@
     ✔ 第四章 栈与队列 @done
     ☐ 第五章 二叉树
     ☐ 第六章 图
+    ☐ 第七章: 搜索树
+    ☐ 第八章: 高级搜索树
+    ☐ 第九章: 词典
+    ☐ 第十章: 优先级队列
+    ☐ 第十一章: 串
+    ☐ 第十二章: 排序
 
 
 PythonCookBook:
@@ -47,6 +62,9 @@ Python Core:
     ✔ ch18: 多线程编程                @done (16-07-28 18:10)
     ✔ ch08: 条件和循环                @done (16-08-01 14:52)
     ✔ ch11: 函数式编程                @done (16-08-02 10:55)
+    ✔ ch09: 文件和输入输出            @done (16-08-24 14:00)
+    ✔ ch10: 错误和异常                @done (16-08-25 15:59)
+    ✔ ch19: 图形用户界面              @done (16-08-26 16:36)
 
 UNIX环境高级编程:
     ✔ UNIX基础知识 @done (16-08-13 16:15)
