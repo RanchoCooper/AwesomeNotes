@@ -1,4 +1,4 @@
-大四指标概览:
+大四指标清单汇总:
     Web后台开发:
         - 数据结构与算法
         - Python
@@ -14,18 +14,32 @@
         ☐ HTTP权威指南
         ☐ TCP/IP协议详解
 
-八月份任务:
-    - 数据结构
-    - Python Cook Book
+各种资源:
+    公开课:
+        ☐ 网络技术与应用http://www.xuetangx.com/courses/course-v1:UST+UST001+2016_T1/about
+        ☐ 软件设计模式http://www.xuetangx.com/courses/course-v1:USTC+USTC2006001+2016_T1/about
+        ☐ 操作系统http://www.xuetangx.com/courshttps://www.gitbook.com/book/leohxj/a-programmer-prepares/detailses/course-v1:TsinghuaX+30240243X+2016_T1/about
+        ☐ Linux操作系统分析http://www.xuetangx.com/courses/course-v1:ustcX+USTC001+_/about
+        ☐ 网络存储技术http://www.xuetangx.com/courses/course-v1:TsinghuaX+80240303x+__/about
+        ☐ 界面设计导论http://www.xuetangx.com/courses/course-v1:TsinghuaX+40809644X+2016_T1/about
+    GitBook:
+        ☐ 编程之法: 面试和算法心得https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details
+        ☐ 程序员的自我修养: https://www.gitbook.com/book/leohxj/a-programmer-prepares/details
+
+
+九月份任务:
+    - 罗哥借的算法书优先完成, 争取一个月内完成
+    - 深入理解计算机系统
+    - Python高级编程
+    - 网络技术与应用
+
+网络技术与应用:
+    ✔ 01: 概论 @done (16-09-01 12:15)
+    ✔ 02: 数据通信基础 @done (16-09-01 14:27)
 
 Linux工具快速教程:
     ☐ Linux基础篇
 
-代办事项:
-    ☐ 并发编程
-    ☐ dis模块文档
-    ☐ requests官方文档
-    ☐ queue + threading
 
 深入理解计算机系统:
     ☐ 第二章: 信息的表示和处理
@@ -100,19 +114,6 @@ History Trash:
         Vim练级攻略: @started(16-07-01)
             ✔ 第二级 @done (16-07-01 13:42)
             ☐
-        Git教程:
-            http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-            ✔ Git简介 @done (16-07-20 11:27)
-            ✔ 安装Git @done (16-07-20 11:27)
-            ✔ 创建版本库 @done (16-07-20 11:27)
-            ✔ 时光机穿梭 @done (16-07-20 11:27)
-            ✔ 远程仓库 @done (16-07-20 11:27)
-            ✔ 分支管理 @done (16-08-01 09:38)
-            ✔ 标签管理 @done (16-08-02 16:23)
-            ✔ 创建标签 @done (16-08-02 16:23)
-            ✔ 操作标签 @done (16-08-02 16:23)
-            ✔ 自定义Git @done (16-08-02 16:23)
-        ✔ Git合集 @done (16-08-04 09:43)
 
 
     数据挖掘: @started(16-07-01)
@@ -143,3 +144,19 @@ History Trash:
         ☐ （7）——语句
         ☐ （8）——表达式
         ☐ （9）——总结
+
+
+Python核心编程: @started(16-07-01)
+    ✔ Ch02: 快速入门                  @done (16-07-01 16:33)
+    ✔ Ch03: Python基础                @done (16-07-01 16:33)
+    ✔ ch18: 多线程编程                @done (16-07-28 18:10)
+    ✔ ch08: 条件和循环                @done (16-08-01 14:52)
+    ✔ ch11: 函数式编程                @done (16-08-02 10:55)
+    ✔ ch12: 模块                      @done (16-07-19 09:42)
+
+Python网络编程: @started(16-07-01)
+    ✔ 网络简介 @done (16-07-02 21:45)
+    ✔ 网络客户端 @done (16-07-03 14:19)
+    ☐ 网络服务器
+    ☐ 域名系统
+
