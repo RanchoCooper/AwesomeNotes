@@ -10,36 +10,16 @@
 
 更多进度信息参见[Current.todo](https://github.com/RanchoCooper/AwesomeNotes/blob/master/Current.todo)
 
-### Web后台开发
+## 技术栈
 
-    - 数据结构与算法
-    - Python进阶
-    - HTTP 协议
-    - Web 框架(Flask)
-    - NoSQL数据库(Redis)
-    - *异步框架(Gevent, Tornado)
+    - 数据结构与算法 (剑指Offer, LeetCode)
+    - Web框架 (Flask, Tornado)
+    - 数据库 (Redis设计与实现)
 
-指标任务:
-
-    ✔ Python核心编程 @done (16-08-26)
-    ☐ 网络技术与应用(九月底完成)
-    ☐ Python进阶之旅系列文章(共五篇, 10.5前)
-    ☐ Linux内和设计与实现(巩固操作系统和数据结构, 10月份主干任务)
-    ☐ Python标准库(每周一章 2016.10-2016.12.31)
-    ☐ HTTP权威指南
-    ☐ TCP/IP协议详解
-    各种文档 - 12月初再作安排:
-        ☐ Redis
-        ☐ Flask
-        - 春节前后做点小东西
-    练手:
-        ☐ 500Lines
-        ☐ 实验楼
-
-### 各种资源
+## 资源合集
 
     公开课:
-        ☐ [网络技术与应用](http://www.xuetangx.com/courses/course-v1:UST+UST001+2016_T1/about)
+        ✔ [网络技术与应用](http://www.xuetangx.com/courses/course-v1:UST+UST001+2016_T1/about)
         ☐ [软件设计模式](http://www.xuetangx.com/courses/course-v1:USTC+USTC2006001+2016_T1/about)
         ☐ [操作系统](http://www.xuetangx.com/courshttps://www.gitbook.com/book/leohxj/a-programmer-prepares/detailses/course-v1:TsinghuaX+30240243X+2016_T1/about)
         ☐ [Linux操作系统分析](http://www.xuetangx.com/courses/course-v1:ustcX+USTC001+_/about)
@@ -50,10 +30,10 @@
         ☐ [程序员的自我修养]: https://www.gitbook.com/book/leohxj/a-programmer-prepares/details
         ☐ [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
+## 历练足迹
 
-历练足迹
-
-    ✔ [Python进阶 中译本](http://docs.pythontab.com/interpy/): @done (16-09-20 18:51)
+    ✔ gcc五分钟系列 @done (16-10-14 14:52)
+    ✔ Python进阶 中译本 @done (16-09-20 18:51)
 
     500Lines:
         ✔ dbdb数据库 @done (16-09-26)
@@ -62,8 +42,11 @@
         ✔ 01: 概论 @done (16-08-31 12:15)
         ✔ 02: 数据通信基础 @done (16-09-01 14:27)
         ✔ 03: 以太网 @done (16-09-04 10:55)
+        ☐ 04: 无线局域网 @hang(16-09-07 11:58)
         ✔ 05: IP和网络互连 @done (16-09-19 04:46)
-        ✔ 07: 传输层 @done (16-09-25)
+        ✔ 07: 传输层 @done (16-09-26 16:22)
+        ✔ 08: 应用层 @done (16-09-26 21:17)
+        ✔ 09: 网络安全 @done (16-10-15 22:28)
 
     Python Core:
         ✔ Ch02: 快速入门                  @done (16-07-01 16:33)
@@ -77,7 +60,6 @@
         ✔ ch19: 图形用户界面              @done (16-08-26 16:36)
 
     Git教程:
-        http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
         ✔ Git简介 @done (16-07-20 11:27)
         ✔ 安装Git @done (16-07-20 11:27)
         ✔ 创建版本库 @done (16-07-20 11:27)

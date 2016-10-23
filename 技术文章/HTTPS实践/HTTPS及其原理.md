@@ -9,8 +9,7 @@ link:
 
 ## HTTPS概述
 HTTP是众所周知的Web传输协议, 但其有个致命缺陷在于其安全性.
-而HTTPS就是HTTP + TLS(传输层安全协议, 其前身是安全套接层SSL), 也就是说, 在原来的协议栈里加入了一层安
-全协议
+而HTTPS就是HTTP + TLS(传输层安全协议, 其前身是安全套接层SSL), 也就是说, 在原来的协议栈里加入了一层安全协议
 
 关于SSL/TLS的更多内容, 可以看阮一峰的[文章](www.ruanyifeng.com/blog/2014/02/ssl_tls.html)和[这里
 ](security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
